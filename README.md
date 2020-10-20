@@ -7,7 +7,7 @@ sendo obrigatório a construção do backend, web e mobile.
 
 O tema foi sobre viagens, criação de roteiro e adicionar novos pontos no mapa.
 
-### * Em breve estarei adicionando o link da apresentação.
+### [Assitir apresentação](https://youtu.be/idrbgtbIZUk)
 
 ---
 
